@@ -5,9 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.23",
     "node-github-graphql": "^0.2.7",
-    "snyk": "^1.244.0"
+    "snyk": "^1.996.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
